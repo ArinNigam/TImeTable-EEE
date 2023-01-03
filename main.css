@@ -1,0 +1,45 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    background-color: #1b1b1b;
+    color: white;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: xx-large;
+}
+h1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+td a{
+    color: lightblue;
+}
+a{
+    color: whitesmoke
+}
+a:visited{
+    color: solid darkorchid
+}
+a:hover,a:active{
+    color: lightcyan
+}
+
+table, tr, th, td, caption {
+    border: 0.5px solid white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 1.5rem;
+}
